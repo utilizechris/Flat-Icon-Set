@@ -1,2 +1,2 @@
-Flat-Icon-Set
+Flat Icon Set
 =============
